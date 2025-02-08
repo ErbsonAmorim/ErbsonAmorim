@@ -25,9 +25,8 @@ Sou um profissional em formação, apaixonado por tecnologia e sempre em busca d
 
 Trabalho com diversas tecnologias voltadas para desenvolvimento web e backend, utilizando frameworks modernos e ferramentas eficientes para criar aplicações robustas e performáticas.
 
-#### Linguagem de Programação: Java ☕
-
-#### Back-end: Spring Boot
+#### Linguagem de Programação & Tecnologias:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white) ![HTML](https://img.shields.io/badge/html-ED8B00?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-ED8B00?style=for-the-badge&logo=CSS&logoColor=white) ![BootStrap](https://img.shields.io/badge/BootStrap-ED8B00?style=for-the-badge&logo=BootStrap&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=SQL&logoColor=white)
 
 #### Versionamento de Código: Git, GitHub
 
