@@ -1,16 +1,28 @@
 
 <div align="center">
   
-# Hello World!
-
+  # Hello World!
 </div>
+
+---
+
+# 👩🏻‍💻 Érbson Amorim
+
+<i>
+  
+## Desenvolvedor Back-end
+
+</i>
 
 Eu sou o Érbson, estudante de Análise e Desenvolvimento de Sistemas na FIAP, entusiasta por tecnologia e desenvolvimento de software. Atualmente estou aprofundando meus conhecimentos em Java. Gosto de aprender novas tecnologias e aplicá-las em projetos inovadores, sempre buscando melhorar minhas habilidades. 🚀
 
+<a href="https://www.linkedin.com/in/erbsonamorim/">
+<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-white.svg?logo=data:image/png;base64,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" height="25px">
+ </a>
 
-## 💡 Sobre mim:
-
-Sou um profissional em formação, apaixonado por tecnologia e sempre em busca de aprendizado contínuo. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento backend e explorar novas possibilidades no mundo da tecnologia.
+<a href="mailto:erbsonamorim10@gmail.com">
+<img alt="e-mail" src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail" height="25px">
+</a>
 
 #### 🎓 Formação Acadêmica: Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na FIAP.
 
@@ -19,15 +31,74 @@ Sou um profissional em formação, apaixonado por tecnologia e sempre em busca d
 #### 🌎 Idiomas: Português (nativo), estudando inglês para expandir minhas oportunidades profissionais.
 
 #### 📘 Curiosidade: Sempre buscando novos desafios e oportunidades para aprender e crescer.
+---
+
+### 🤖 Linguagens e Tecnologias
 
 
-## 🚀 Tecnologias & Ferramentas:
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/512/226/226777.png" 
+/>
+<img 
+    align="left" 
+    alt="SQL"
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlqnorQcahOCD3g5cHjHcW4axvxZYprKlw4A&s" 
+/><img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
-Trabalho com diversas tecnologias voltadas para desenvolvimento web e backend, utilizando frameworks modernos e ferramentas eficientes para criar aplicações robustas e performáticas.
-
-#### Linguagem de Programação & Tecnologias:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=Python&logoColor=white) ![HTML](https://img.shields.io/badge/html-ED8B00?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-ED8B00?style=for-the-badge&logo=CSS&logoColor=white) ![BootStrap](https://img.shields.io/badge/BootStrap-ED8B00?style=for-the-badge&logo=BootStrap&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=SQL&logoColor=white)
-
-#### Versionamento de Código: Git, GitHub
-
-#### Ferramentas e IDEs: VS Code, IntelliJ IDEA
+<br/>
+<br/>
