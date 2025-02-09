@@ -1,12 +1,12 @@
 
 <div align="center">
   
-  # Hello World!
+  # `Hello World!`
 </div>
 
----
+<br>
 
-# 👩🏻‍💻 Érbson Amorim
+# 👨‍💻 Érbson Amorim
 
 <i>
   
